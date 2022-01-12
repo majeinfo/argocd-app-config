@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: vote
-          image: majetraining/vote:v2
+          image: majetraining/vote:v1
           ports:
             - containerPort: 80
